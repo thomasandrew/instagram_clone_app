@@ -9,8 +9,6 @@ import {
 } from 'react-native'
 import LinearGradient from 'react-native-linear-gradient';
 
-
-
 export default class App extends Component {
     render() {
         return (
