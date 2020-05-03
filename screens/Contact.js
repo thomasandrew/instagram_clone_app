@@ -11,7 +11,7 @@ export default class App extends Component {
         return (
             <View style={styles.container}>
                 <Text style={styles.welcome}>
-                    Welcome to React Native!
+                    Coming soon.
         </Text>
             </View>
         )
@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
         fontSize: 20,
         textAlign: 'center',
         margin: 10,
+        color: '#fff',
     },
 })
 
