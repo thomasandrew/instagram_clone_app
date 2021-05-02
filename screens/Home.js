@@ -73,7 +73,7 @@ export default class App extends Component {
                         <Pictures imgUs={'https://randomuser.me/api/portraits/women/12.jpg'} nameofU='julia' imgM={'https://i.pinimg.com/originals/88/5b/b4/885bb4e6d80f92108693e33fd450204a.jpg'} />
                     </View>
                     <View style={styles.likes}>
-                        <Like likes='5 likes' names='julia' write="I'm just studing." num={1} />
+                        <Like likes='5 likes' names='julia' write="I'm just studying." num={1} />
                     </View>
                 </View>
 
